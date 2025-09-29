@@ -3,10 +3,8 @@
 ## 📌 Overview  
 This is a **role-based web application** for store ratings. Users can rate stores (1–5), while admins and store owners have different privileges.  
 
-**Tech Stack**:  
-- **Frontend:** React.js  
-- **Backend:** Express.js / NestJS / Loopback  
-- **Database:** PostgreSQL / MySQL  
+<img width="1914" height="851" alt="image" src="https://github.com/user-attachments/assets/b5d830ba-e15b-4af7-b3e4-499101954f7a" />
+
 
 ---
 
